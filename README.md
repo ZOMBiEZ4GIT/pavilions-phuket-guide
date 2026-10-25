@@ -8,11 +8,11 @@ Static HTML, CSS and vanilla JavaScript; no build, dependencies, analytics, back
 
 Implemented: responsive navigation; activity search plus effort, journey, boat and rain filters; device-local favourites; printable six-day/five-night itinerary; dining inclusion badges; practical disclosures; sources; optional attributed photography gallery.
 
-## Content status
+## Content
 
-The layout and initial resort sections are implemented. The researched activity catalog, wider restaurant list, licensed photographs and final practical content still need integration before publication. The activity array is intentionally empty until verified content is available. Do not treat this draft as a complete holiday guide.
+Includes 18 optional outings, three resort dining venues, nine nearby restaurants, a six-day/five-night itinerary, dated package benchmarks, practical checklists and six licensed destination photographs. Sources were researched 25 October 2026. Quotes are not held or booked; allowances and estimates are labelled separately.
 
-All prices are indicative planning estimates, never confirmed bookings. Never add traveller names, booking references, private financial arrangements, private addresses or personal medical information.
+The public guide contains no traveller names, exact trip dates, booking references, private financial arrangements or personal health information.
 
 ## Photos
 
@@ -20,7 +20,7 @@ Original CSS/SVG artwork is included. Official hotel photographs must not be rep
 
 ## GitHub Pages
 
-Target: Settings → Pages → Deploy from a branch → `main` → `/ (root)`. `.nojekyll` is included. Relative asset paths support the project URL. No custom domain, workflow token or credential change is needed. Enable only once the complete content and responsive checks pass.
+Target: Settings → Pages → Deploy from a branch → `main` → `/ (root)`. `.nojekyll` is included. Relative asset paths support the project URL. No custom domain, workflow token or credential change is needed. The production target is https://zombiez4git.github.io/pavilions-phuket-guide/.
 
 ## Verification before publication
 
