@@ -28,8 +28,8 @@ window.GUIDE = {
           "text": "Allow time for immigration and luggage, then the airport car. Check-in after 15:00."
         },
         {
-          "time": "Afternoon",
-          "text": "Settle into the villa. Pool, unpacking and no fixed appointment."
+          "time": "On arrival",
+          "text": "Settle into the villa, unpack and unwind. Keep the first night free of fixed appointments."
         },
         {
           "time": "Evening",
